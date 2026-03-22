@@ -1,1 +1,2 @@
+Main branch new message
 Feature branch new message
